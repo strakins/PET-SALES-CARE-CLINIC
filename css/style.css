@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navi-text1{
+    line-height: 1.2rem;
+}
+.navi-text{
+    font-size: 0.8rem;
+    padding-left: 1rem;
+}
+.pet-section {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* .image1 {
+    width: 400px;
+    height: 300px;
+} */
+
+.font1 {
+    font-family: 'Scheherazade New', serif;
+}
+
+.font2 {
+    font-family: 'Roboto', sans-serif;
+   
+}
+.font3 {
+    font-family: 'Merriweather', serif;
+}
+
+
+.hero-bg {
+    background-image: url(../img/pet_shop.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(31, 32, 32, 0.589);
+    background-position: center;
+    background-size: cover;    
+}
+
+.hero1 {
+    background-image: url(../img/catsshop.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(53, 55, 160, 0.61);
+    background-position: center;
+    background-size: cover; 
+    height: 200px;
+    
+}
+.img1 {
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   
+}
+.imagecon{
+    padding: 8px;
+    background-color: #df2932;
+    border-radius: 10px;
+}
+.concept {
+    background-image: url(../img/catsshop.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(56, 58, 197, 0.555);
+    background-position: center;
+    background-size: cover; 
+    
+}
+.side1 {
+    background-image: url(../img/catcare1.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(61, 27, 214, 0.699);
+    background-position: center;
+    background-size: cover;
+    
+}
